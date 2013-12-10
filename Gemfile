@@ -20,6 +20,7 @@ gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
+gem 'binding_of_caller'
 
 #only used in dev. Won't be pushed to prod.
 group :development do
